@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hello, I'm Habib Andres Rojas Ome
+🧑‍💻 About Me
+📍 Location: Neiva, Colombia 🇨🇴
+📧 Email: habibandresome@gmail.com
+🎓 Studies: Programming ⚛️
+I’m a programming student passionate about Data Analysis, Machine Learning, and Backend Development. I enjoy solving problems with technology and combining math, science, and programming to build impactful solutions.
 
-<!--
-**TheHabibXD/TheHabibXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🖥️ Languages
+Python SQL HTML5 CSS3 Java
 
-Here are some ideas to get you started:
+🛠️ Tools & Frameworks
+Git Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📇 Let's Connect on LinkedIn
+I'm always open to networking and professional opportunities. Feel free to reach out:
+
+LinkedIn
+
+📊 GitHub Stats:
+GitHub stats
+
+📂 My Projects
+Check out my public repositories below ⬇️⬇️⬇️
