@@ -33,7 +33,7 @@ I’m a programming student passionate about **Data Analysis**, **Machine Learni
 
 I'm always open to networking and professional opportunities. Feel free to reach out:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ---
 
 
